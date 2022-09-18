@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "ITIS 6177",
+      "author": "Harsh",
+      "id": 2
+    },
+    {
+      "title": "This is a new story",
+      "author": "Author is Harsh Raval",
+      "id": 3
+    },
+    {
+      "title": "Let's add one more story",
+      "author": "This time the author is one of the Marvel heros",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
